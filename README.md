@@ -1,2 +1,4 @@
 # geometria-avito-images
-Photos of Avito listings (public direct links for Avito Autoload). Only ad photos, no other data.
+
+Фото объявлений Авито для Автозагрузки (прямые ссылки на файлы). Заполняется приложением Avito Studio.
+Здесь только фото объявлений, которые и так публично видны на Авито.
